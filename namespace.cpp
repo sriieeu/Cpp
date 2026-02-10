@@ -7,6 +7,7 @@ namespace first {
 }
 
 int main() {
+    using namespace std;
     int x=1;
     std::cout<<x<<std::endl;
     std::cout<< first::x<<std::endl;
