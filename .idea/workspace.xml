@@ -29,9 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615a69db-1c3b-4f88-8eee-c714af2c98f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.exe" beforeDir="false" afterPath="$PROJECT_DIR$/first.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +60,20 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="39YpEBSOzfIohLTpowTswrXqbQq" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.cpp (1).executor": "Run",
+    "C/C++ File.cpp.executor": "Run",
     "C/C++ File.first.cpp.executor": "Run",
     "C/C++ File.insertion.cpp.executor": "Run",
+    "C/C++ File.namespace.cpp.executor": "Run",
     "CMake Application.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -79,10 +84,12 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "CMakeSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,30 +98,38 @@
       <recent name="C:\Users\SRI CHARAN\CLionProjects\cpp" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.insertion.cpp">
+  <component name="RunManager" selected="CMake Application.cpp">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertion.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="insertion.cpp" CONFIG_NAME="insertion.cpp">
-      <option name="sourceFile" value="insertion.cpp" />
+    <configuration name="cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" temporary="true" REDIRECT_INPUT="true" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="cpp">
+      <option name="sourceFile" value="hypo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="cpp">
+      <option name="sourceFile" value="C:\Users\SRI CHARAN\CLionProjects\cpp\hypo.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.insertion.cpp" />
+      <item itemvalue="C/C++ File.cpp" />
+      <item itemvalue="C/C++ File.cpp (1)" />
       <item itemvalue="CMake Application.cpp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.insertion.cpp" />
+        <item itemvalue="CMake Application.cpp" />
+        <item itemvalue="C/C++ File.cpp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +142,9 @@
       <updated>1770882749729</updated>
       <workItem from="1770882758192" duration="1304000" />
       <workItem from="1771498226862" duration="3498000" />
-      <workItem from="1771670574737" duration="1721000" />
+      <workItem from="1771670574737" duration="3009000" />
+      <workItem from="1771679065030" duration="155000" />
+      <workItem from="1771681871865" duration="6087000" />
     </task>
     <servers />
   </component>
