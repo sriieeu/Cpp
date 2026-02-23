@@ -29,9 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615a69db-1c3b-4f88-8eee-c714af2c98f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rokpapasza.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banking.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/banking.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,7 @@
       <workItem from="1771679065030" duration="155000" />
       <workItem from="1771681871865" duration="6795000" />
       <workItem from="1771749162048" duration="7594000" />
-      <workItem from="1771825902742" duration="609000" />
+      <workItem from="1771825902742" duration="2969000" />
     </task>
     <servers />
   </component>
