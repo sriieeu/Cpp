@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(cpp
 
 
-        consturtors.cpp
+        getter-setter-abs.cpp
 
 )
